@@ -1,8 +1,9 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Andri</h1>
 <h3 align="center">A Web developer from Indonesia</h3>
-<img align="right" alt="coding" width="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"><br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andri-io&label=Profile%20views&color=0e75b6&style=flat" alt="andri-io" /> </p>
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"><br><br>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=andri-io&label=Profile%20views&color=0e75b6&style=flat" alt="andri-io" /> </p>
+
 
 - 🔭 I’m currently working on **Landing page**
 
@@ -83,5 +84,6 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andri-io&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 </div>
-
+    
