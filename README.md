@@ -28,12 +28,6 @@
 
 
 <h2 style="color: #44AEFB">Languages and Tools</h2>
-<div align="center" style="display:block;">
-    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
-</div>
-<br>  
-
-
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
@@ -68,12 +62,12 @@
   
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
+      
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+      
   </a>
   </a>
 </div>
-<br>
-<br>
-
 <div>
 <p>&nbsp;<img align="center" width="300" src="![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andri-io&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)" alt="" /></p>
 <div class="stats" align="center">
