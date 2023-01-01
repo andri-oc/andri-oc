@@ -18,7 +18,10 @@
 <img src = "https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=58CCED" >
 <img src = "https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=Bootstrap&logoColor=58CCED" >
 <img src = "https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&&logoColor=58CCED" >
-
+<img src = "https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma&logoColor=58CCED" >
+<img src = "https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=58CCED" >
+<img src = "https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php&logoColor=58CCED" >
+<img src = "https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=58CCED" >
 
 
 
@@ -35,7 +38,7 @@
 <p>&nbsp;<img align="center" width="300" src="![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andri-io&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20&&bg_color=0D1016)" alt="" /></p>
 <div class="stats" align="center">
   
-<img src="https://camo.githubusercontent.com/ffbf71edb9eb65671926a8cc42a5a740bf5b799a9b93699a3a0de76e1793a80b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" width=65 > </a>
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=andri-io&count_private=true&theme=tokyonight&border_radius=20)  
   
