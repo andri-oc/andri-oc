@@ -61,6 +61,8 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=andri-io&count_private=true&theme=algolia&border_radius=20)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andri-io&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=andri-io&theme=react-dark)](https://github.com/andri-io/github-readme-activity-graph)
 
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 </div>
