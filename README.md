@@ -12,6 +12,11 @@
 
 <h2 style="color: #44AEFB" align="center" >Languages and Tools</h2>
 <div align="center">
+
+<img src = "https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=ffff00" >
+<img src = "https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=ffff00" >
+<img src = "https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=ffff00" >
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   </a>
