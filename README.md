@@ -13,45 +13,20 @@
 <h2 style="color: #44AEFB" align="center" >Languages and Tools</h2>
 <div align="center">
 
-<img src = "https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=ffff00" >
-<img src = "https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=ffff00" >
-<img src = "https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=ffff00" >
+<img src = "https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=58CCED" >
+<img src = "https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=58CCED" >
+<img src = "https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=58CCED" >
+<img src = "https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=Bootstrap&logoColor=58CCED" >
+<img src = "https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&&logoColor=58CCED" >
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-      <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-      <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-      <img  alt="Sass" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img  alt="C" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-      <img  alt="NPM" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img  alt="Docker" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  </a>
+
+
+
+
+<img src = "https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=58CCED" >
+
+
   
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
-      
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
       
   </a>
   </a>
