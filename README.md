@@ -14,20 +14,16 @@
 <h2 style="color: #44AEFB" align="center" >Languages and Tools</h2>
 <div align="center">
 
-<img src = "https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=58CCED" >
+<img src = "https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=E24C27" >
 <img src = "https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=58CCED" >
-<img src = "https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=58CCED" >
-<img src = "https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=Bootstrap&logoColor=58CCED" >
-<img src = "https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&&logoColor=58CCED" >
-<img src = "https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma&logoColor=58CCED" >
-<img src = "https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=58CCED" >
-<img src = "https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php&logoColor=58CCED" >
-<img src = "https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=58CCED" >
-
-
-
-
-<img src = "https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=58CCED" >
+<img src = "https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=F0E15A" >
+<img src = "https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=Bootstrap&logoColor=C6538C" >
+<img src = "https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&&logoColor=1876D3" >
+<img src = "https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma&logoColor=C6538C" >
+<img src = "https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=F04539" >
+<img src = "https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php&logoColor=608DD8" >
+<img src = "https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=37BAAD" >
+<img src = "https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=F0E15A" >
 
 
   
