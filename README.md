@@ -1,4 +1,4 @@
-<img src="/ubuntu-black.png">
+<img src="/ubuntu-magenta-pink-1.png">
 <h1 align="center">Andri</h1>
 
 
