@@ -1,4 +1,4 @@
-<img src="/debian-magenta-pink-1_3.png">
+<img src="/ubuntu-magenta-pink.png">
 <h1 align="center">Andri</h1>
 
 
