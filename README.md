@@ -7,9 +7,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-<a href="https://fb.com/andri" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andri" height="30" width="40" /></a>
-<a href="https://instagram.com/andri.jva" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andri.jva" height="30" width="40" /></a>
-</div>
+  <a href="https://fb.com/andri" target="blank"><img src = "https://img.shields.io/badge/facebook-000000?style=for-the-badge&logo=facebook&logoColor=58CCED" ></a>
+  
+  <a href="https://instagram.com/andri.jva" target="blank"><img src = "https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=58CCED" ></a>
+  
 
 <h2 style="color: #44AEFB" align="center" >Languages and Tools</h2>
 <div align="center">
