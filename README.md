@@ -1,7 +1,4 @@
-![Cover Image] (.debian-magenta-pink-1_3.png)
-
-
-
+<img src="/debian-magenta-pink-1_3.png">
 <h1 align="center">Andri</h1>
 
 
