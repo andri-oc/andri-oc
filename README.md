@@ -19,11 +19,8 @@
 <img src = "https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=58CCED" >
 <img src = "https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=F0E15A" >
 <img src = "https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=Bootstrap&logoColor=C6538C" >
-<img src = "https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&&logoColor=1876D3" >
 <img src = "https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma&logoColor=C6538C" >
 <img src = "https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=F04539" >
-<img src = "https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php&logoColor=608DD8" >
-<img src = "https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=37BAAD" >
 <img src = "https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=F0E15A" >
 
 
@@ -48,8 +45,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=andri-io&theme=react-dark)](https://github.com/andri-io/github-readme-activity-graph)
 
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
- </div>
+[![Sparkline](https://stars.medv.io/torvalds/linux.svg)](https://stars.medv.io/torvalds/linux)
 
   
 
