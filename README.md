@@ -1,7 +1,8 @@
 <img src="/ubuntu-magenta-pink-1.png">
 <h1 align="center">Andri</h1>
 
-
+  
+  
 
 
 
@@ -36,16 +37,15 @@
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=andri-io&count_private=true&theme=tokyonight&border_radius=20&bg_color=0D1016)  
-  
-  
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andri-io&layout=compact&theme=tokyonight&border_radius=20&bg_color=0D1016)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andri-io&show_icons=true&border_radius=20&bg_color=0D1016&theme=tokyonight)
 
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=andri-io&theme=react-dark)](https://github.com/andri-io/github-readme-activity-graph)
 
 [![Sparkline](https://stars.medv.io/torvalds/linux.svg)](https://stars.medv.io/torvalds/linux)
+
 
   
 
