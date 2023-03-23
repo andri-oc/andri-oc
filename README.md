@@ -38,7 +38,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=andri-io&count_private=true&theme=tokyonight&border_radius=20&bg_color=0D1016)  
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=andri-io&theme=react-dark)](https://github.com/andri-io/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=andri-io&theme=react-dark)](https://github.com/andri-io/github-readme-activity-graph) -->
   
 
 
