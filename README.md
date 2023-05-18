@@ -12,6 +12,8 @@
   
   <a href="https://instagram.com/andri.jva" target="blank"><img src = "https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=58CCED" ></a>
   
+  <a href="https://linkedin.com/in/andre-uniska" target="blank"><img src = "https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=58CCED"></a>
+  
 
 <h2 style="color: #44AEFB" align="center" >Languages and Tools</h2>
 <div align="center">
