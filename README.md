@@ -11,7 +11,7 @@
          <a href="https://linkedin.com/in/andre-uniska" target="blank"><img
                 src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=58CCED"></a>
     </span>
-    <h2 style="color: #44AEFB" align="center">Languages and Tools</h2>
+    <h2 style="color: #44AEFB" align="center">Languages and Tools</h2> 
     <div align="center">
 
   <img src="https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=E24C27">
@@ -29,8 +29,8 @@
         <div class="stats" align="center">
 
 ![GitHubStreak](https://streak-stats.demolab.com?user=andri-oc&count_private=true&theme=tokyonight&border_radius=20&bg_color=0D1016)<br>
-[![Sparkline](https://stars.medv.io/torvalds/linux.svg)](https://stars.medv.io/torvalds/linux)
-
+            
+<img src="/cat.svg">
 </div>
 </div>
 
