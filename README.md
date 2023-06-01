@@ -26,10 +26,30 @@
         <p>&nbsp;<img align="center" width="300"
                 src="![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andri-io&hide=stars&count_private=trueshow_icons=true&theme=algolia&border_radius=20&&bg_color=0D1016)"
                 alt="" /></p>
-        <div class="stats" align="center">
+        
+<p align="center">
+<a href="https://github.com/andri-oc">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andri-oc&theme=transparent" />
+</a>
+<a href="https://github.com/andri-oc">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=andri-oc&hide_border=true&card_width=338&theme=transparent" />
+</a>
+<a href="https://github.com/andri-oc">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andri-oc&theme=transparent" />
+</a>
+</p>
+    <details>
+<a href="https://github.com/andri-oc">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andri-oc&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+</a>
+        </details>
 
+<div class="stats" align="center">
+
+    
+<!--     
 ![GitHubStreak](https://streak-stats.demolab.com?user=andri-oc&count_private=true&theme=tokyonight&border_radius=20&bg_color=0D1016)<br>
-            
+             -->
 <img src="/cat.svg">
 </div>
 </div>
