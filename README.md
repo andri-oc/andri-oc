@@ -9,7 +9,7 @@
         <a href="https://instagram.com/andri.jva" target="blank"><img
                 src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=58CCED"></a>
          <a href="https://linkedin.com/in/andre-uniska" target="blank"><img
-                src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=58CCED"></a>
+                src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=58CCED"></a>
     </span>
     <h2 style="color: #44AEFB" align="center">Languages and Tools</h2> 
     <div align="center">
@@ -19,7 +19,9 @@
         <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=F0E15A">
         <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=Bootstrap&logoColor=C6538C">
         <img src="https://img.shields.io/badge/TailwindCss-000000?style=for-the-badge&logo=TailwindCss&logoColor=2DAA9E">
-        <img src="https://img.shields.io/badge/ReactJs-000000?style=for-the-badge&logo=ReactJs&logoColor=2DAA9E">
+        <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=2DAA9E">
+        <img src="https://img.shields.io/badge/Typescript-000000?style=for-the-badge&logo=Typescript&logoColor=2DAA9E">
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Express.js&logoColor=2DAA9E">
         <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma&logoColor=563D7C">
         <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=F04539">
         <img src="https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=F0E15A">
