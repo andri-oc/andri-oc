@@ -18,6 +18,7 @@
         <img src="https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=58CCED">
         <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=F0E15A">
         <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=Bootstrap&logoColor=C6538C">
+        <img src="https://img.shields.io/badge/TailwindCss-000000?style=for-the-badge&logo=TailwindCss&logoColor=C6538C">
         <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma&logoColor=563D7C">
         <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=F04539">
         <img src="https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=F0E15A">
